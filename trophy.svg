@@ -52,7 +52,7 @@
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="700" font-size="12" letter-spacing="0.2" fill="#000">MultiLanguage</text>
           <text x="50%" y="84" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="600" font-size="10" fill="#666">Rainbow Lang User</text>
-          <text x="50%" y="96" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="700" font-size="11" fill="#666">11pt</text>
+          <text x="50%" y="96" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="700" font-size="11" fill="#666">12pt</text>
           
     <style>
     @keyframes MultiLanguageRankAnimation {
@@ -397,7 +397,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
   
           <text x="50%" y="18" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="700" font-size="12" letter-spacing="0.2" fill="#000">Repositories</text>
           <text x="50%" y="84" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="600" font-size="10" fill="#666">Middle Repo Creator</text>
-          <text x="50%" y="96" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="700" font-size="11" fill="#666">14pt</text>
+          <text x="50%" y="96" text-anchor="middle" font-family="Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji" font-weight="700" font-size="11" fill="#666">15pt</text>
           
     <style>
     @keyframes RepositoriesRankAnimation {
@@ -405,7 +405,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 34.8px;
+        width: 43.5px;
       }
     }
     #Repositories-rank-progress{
@@ -426,7 +426,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
       x="14"
       y="106"
       rx="2.5"
-      width="34.8"
+      width="43.5"
       height="5"
       fill="#0366d6"
     />
